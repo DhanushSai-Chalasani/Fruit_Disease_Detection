@@ -1,0 +1,1 @@
+{"mse": 0.002869964577257633, "psnr": 25.421234635435273, "accuracy": 0.9461358313817331, "f_accuracy": 0.9679937548790007, "cm": [[1325, 83], [55, 1099]], "vocab": ["apple", "banana", "bitter", "capsicum", "orange", "tomato"]}
